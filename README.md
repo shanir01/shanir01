@@ -1,7 +1,7 @@
 <!-- ✨ NISHU's GitHub profile ✨ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:6d28d9,100:c026d3&height=190&section=header&text=NISHU&fontSize=70&fontColor=ffffff&fontAlignY=36&desc=Nirbhay%20Sharma%20%E2%80%A2%20AI%20Content%20Creator%20%26%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="NISHU header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:6d28d9,100:c026d3&height=190&section=header&text=NISHU&fontSize=70&fontColor=ffffff&fontAlignY=36&desc=Nirbhay%20Sharma%20%E2%80%A2%20AI%20Content%20Creator%20and%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="NISHU header"/>
 
 <a href="https://github.com/shanir01"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=C084FC&center=true&vCenter=true&width=620&height=50&lines=Namaste+%F0%9F%99%8F+I%27m+Nirbhay+aka+NISHU;AI+Content+Creator+%F0%9F%8E%AC+from+India+%F0%9F%87%AE%F0%9F%87%B3;AI+videos+%E2%80%A2+Hindi+horror+shorts+%F0%9F%91%BB;Cartoon+series+%E2%80%A2+Automation+tools+%F0%9F%A4%96;Building+Social+Auto+Post+%F0%9F%9A%80" alt="Typing intro"/></a>
 
@@ -47,7 +47,7 @@ Main AI se videos banata hoon, aur unhe automate karne ke tools bhi khud likhta 
 <div align="center">
 
 <a href="https://github.com/shanir01/Social-Auto-Post">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=shanir01&repo=Social-Auto-Post&bg_color=0d1117&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff&hide_border=true&show_owner=true" alt="Social Auto Post"/>
+  <img src="./assets/social-auto-post-card.svg" width="720" alt="Social Auto Post — AI video generator + auto-posting app"/>
 </a>
 
 **Social Auto Post** — ek click → poore mahine ka content: script, AI voice, scenes, captions, video → daily auto-upload. 🗓️✨
@@ -71,8 +71,9 @@ Main AI se videos banata hoon, aur unhe automate karne ke tools bhi khud likhta 
 
 <div align="center">
 
-<a href="https://www.youtube.com/@javagoat9"><img src="https://img.shields.io/badge/YouTube-@javagoat9-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<a href="https://www.youtube.com/@JavaGoat9"><img src="https://img.shields.io/badge/YouTube-@JavaGoat9-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 <a href="https://www.instagram.com/shanir.ai/"><img src="https://img.shields.io/badge/Instagram-@shanir.ai-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://www.instagram.com/nirbhay__07_20/"><img src="https://img.shields.io/badge/Instagram-@nirbhay____07__20-C13584?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram (personal)"/></a>
 <a href="https://t.me/javagoat"><img src="https://img.shields.io/badge/Telegram-@javagoat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 
 </div>
