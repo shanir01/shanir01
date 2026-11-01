@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="210" viewBox="0 0 820 210">
+  <defs>
+    <linearGradient id="bd" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#c026d3"/><stop offset="0.5" stop-color="#7c3aed"/><stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#140a26"/><stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="tt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f0abfc"/><stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect x="1.5" y="1.5" width="817" height="207" rx="18" fill="url(#bg)" stroke="url(#bd)" stroke-width="2"/>
+  <circle cx="735" cy="60" r="70" fill="#7c3aed" opacity="0.16" filter="url(#glow)"/>
+  <circle cx="790" cy="170" r="50" fill="#c026d3" opacity="0.12" filter="url(#glow)"/>
+  <g font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif">
+    <text x="34" y="44" fill="#a78bfa" font-size="13" font-weight="600" letter-spacing="2.5">FEATURED PROJECT  •  CURRENTLY BUILDING</text>
+    <text x="34" y="88" fill="url(#tt)" font-size="34" font-weight="800">Social Auto Post</text>
+    <text x="34" y="118" fill="#e9d5ff" font-size="15.5">AI video generator + auto-posting app — idea se upload tak, sab automatic.</text>
+    <g font-size="13" font-weight="600">
+      <rect x="34" y="140" width="128" height="30" rx="15" fill="#2e1065" stroke="#7c3aed"/><text x="98" y="160" fill="#f5f3ff" text-anchor="middle">AI Script</text>
+      <rect x="172" y="140" width="128" height="30" rx="15" fill="#2e1065" stroke="#7c3aed"/><text x="236" y="160" fill="#f5f3ff" text-anchor="middle">AI Voice</text>
+      <rect x="310" y="140" width="128" height="30" rx="15" fill="#2e1065" stroke="#7c3aed"/><text x="374" y="160" fill="#f5f3ff" text-anchor="middle">Video Maker</text>
+      <rect x="448" y="140" width="128" height="30" rx="15" fill="#2e1065" stroke="#7c3aed"/><text x="512" y="160" fill="#f5f3ff" text-anchor="middle">30-Day Autopilot</text>
+      <rect x="586" y="140" width="128" height="30" rx="15" fill="#2e1065" stroke="#7c3aed"/><text x="650" y="160" fill="#f5f3ff" text-anchor="middle">Auto-Post + DM</text>
+    </g>
+    <text x="786" y="194" fill="#c084fc" font-size="13" font-weight="700" text-anchor="end">View repo →</text>
+    <circle cx="40" cy="190" r="5" fill="#f1e05a"/><text x="52" y="194.5" fill="#9ca3af" font-size="12.5">JavaScript  ·  Node.js  ·  Gemini  ·  ElevenLabs  ·  FFmpeg</text>
+  </g>
+</svg>
